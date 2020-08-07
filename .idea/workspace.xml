@@ -20,24 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb081702-5b32-4072-b158-51846cad3e3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_test_learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bike_points.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/c_to_f.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factors_num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leap_year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lucky_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mul_adj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/num_month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pencil_count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/placement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prime_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rainbow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rep_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cow_barn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_primes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prime_with1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rev_mul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_test_learn/prime_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prime/prime_number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,16 +66,9 @@
       <recent name="C:\Users\vivek\Documents\GitHub\java_test_learn\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mul_adj">
-    <configuration name="c_to_f" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c_to_f" />
-      <module name="java_test_learn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="factors_num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factors_num" />
+  <component name="RunManager" selected="Application.prime_with1">
+    <configuration name="cow_barn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cow_barn" />
       <module name="java_test_learn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,8 +88,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prime_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prime_number" />
+    <configuration name="prime_with1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prime_with1" />
+      <module name="java_test_learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rev_mul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rev_mul" />
       <module name="java_test_learn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.prime_with1" />
+        <item itemvalue="Application.rev_mul" />
+        <item itemvalue="Application.cow_barn" />
         <item itemvalue="Application.mul_adj" />
         <item itemvalue="Application.leap_year" />
-        <item itemvalue="Application.c_to_f" />
-        <item itemvalue="Application.prime_number" />
-        <item itemvalue="Application.factors_num" />
       </list>
     </recent_temporary>
   </component>
@@ -175,22 +165,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="644" y="173" key="#spell_(1)/0.0.1920.1080@0.0.1920.1080" timestamp="1596454885168" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1596662383033">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1596837103409">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596662383033" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1596662383033">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596837103409" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1596837103409">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596662383033" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1596662383033">
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596837103409" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1596837103409">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596662383033" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1596662383033">
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596837103409" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1596837103409">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596662383033" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596837103409" />
     <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1596462023614">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
