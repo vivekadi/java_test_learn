@@ -20,7 +20,6 @@ public class gifts {
         name.add("Sara");
         sales.put(sara,name);
 
-
         System.out.println("Enter the number of boxes sold by Harry");
         int harry=x.nextInt();
         if(harry==sara)
@@ -30,7 +29,6 @@ public class gifts {
             harry_l.add("Harry");
             sales.put(harry,harry_l);
         }
-
 
         System.out.println("Enter the number of boxes sold by Leo");
         int leo=x.nextInt();
@@ -43,7 +41,6 @@ public class gifts {
             leo_l.add("Leo");
             sales.put(leo,leo_l);
         }
-
 
         System.out.println("Enter the number of boxes sold by James");
         int james=x.nextInt();
