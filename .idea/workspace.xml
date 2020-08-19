@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb081702-5b32-4072-b158-51846cad3e3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/currency_convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/profit_loss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumandproduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/c_to_fractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_test_learn/prime_with1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_test_learn/prime_with1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_test_learn/gifts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_test_learn/gifts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gifts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gifts.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,37 +63,37 @@
       <recent name="C:\Users\vivek\Documents\GitHub\java_test_learn\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.profit_loss">
-    <configuration name="currency_convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="currency_convert" />
+  <component name="RunManager" selected="Application.c_to_fractions">
+    <configuration name="Dec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dec" />
       <module name="java_test_learn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prime_with1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prime_with1" />
+    <configuration name="c_to_fractions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_to_fractions" />
       <module name="java_test_learn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="profit_loss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="profit_loss" />
+    <configuration name="gifts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gifts" />
       <module name="java_test_learn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rev_mul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rev_mul" />
+    <configuration name="grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grade" />
       <module name="java_test_learn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumandproduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumandproduct" />
+    <configuration name="trial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trial" />
       <module name="java_test_learn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.profit_loss" />
-        <item itemvalue="Application.sumandproduct" />
-        <item itemvalue="Application.currency_convert" />
-        <item itemvalue="Application.prime_with1" />
-        <item itemvalue="Application.rev_mul" />
+        <item itemvalue="Application.c_to_fractions" />
+        <item itemvalue="Application.Dec" />
+        <item itemvalue="Application.grade" />
+        <item itemvalue="Application.gifts" />
+        <item itemvalue="Application.trial" />
       </list>
     </recent_temporary>
   </component>
@@ -166,22 +166,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="644" y="173" key="#spell_(1)/0.0.1920.1080@0.0.1920.1080" timestamp="1596454885168" />
-    <state width="1340" height="265" key="GridCell.Tab.0.bottom" timestamp="1596920776714">
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom" timestamp="1597334328932">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596920776714" />
-    <state width="1340" height="265" key="GridCell.Tab.0.center" timestamp="1596920776714">
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597334328932" />
+    <state width="1877" height="293" key="GridCell.Tab.0.center" timestamp="1597334328932">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596920776714" />
-    <state width="1340" height="265" key="GridCell.Tab.0.left" timestamp="1596920776714">
+    <state width="1877" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597334328932" />
+    <state width="1877" height="293" key="GridCell.Tab.0.left" timestamp="1597334328932">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596920776714" />
-    <state width="1340" height="265" key="GridCell.Tab.0.right" timestamp="1596920776714">
+    <state width="1877" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597334328932" />
+    <state width="1877" height="293" key="GridCell.Tab.0.right" timestamp="1597334328932">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596920776714" />
+    <state width="1877" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597334328932" />
     <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1596462023614">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -198,9 +198,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596462023614" />
-    <state x="616" y="250" key="run.anything.popup" timestamp="1596639218188">
+    <state x="616" y="250" key="run.anything.popup" timestamp="1597181079641">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1596639218188" />
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597181079641" />
   </component>
 </project>
