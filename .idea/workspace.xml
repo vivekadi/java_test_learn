@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb081702-5b32-4072-b158-51846cad3e3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/c_to_fractions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_test_learn/gifts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_test_learn/gifts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gifts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gifts.java" afterDir="false" />
-    </list>
+    <list default="true" id="cb081702-5b32-4072-b158-51846cad3e3a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
